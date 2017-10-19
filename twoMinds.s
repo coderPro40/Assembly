@@ -1,8 +1,6 @@
 /*
  * Name:
  * ThankGod Ofurum
- * Date:
- * 4/6/2016
  * Description:
  * This program open one file, masterOut and prompts player one for code input
  * then player two is given 12 turns to guess what the code used by player one
