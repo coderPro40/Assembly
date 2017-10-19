@@ -1,8 +1,6 @@
 /*
  * Name:
  * ThankGod Ofurum
- * Date:
- * 3/18/2016
  * Description:
  * This program open two file, codeInput and codeOutput, and iterates through
  * each byte in codeInput and splits the words in two, thereby forming half-
